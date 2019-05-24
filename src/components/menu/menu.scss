@@ -1,0 +1,21 @@
+@import "~taro-ui/dist/style/components/drawer.scss";
+@import "~taro-ui/dist/style/components/list.scss";
+.topiclist-menu{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 50PX;
+  align-items: center;
+  .image{
+    width:28PX;
+    height:28PX;
+  }
+  .left{
+    margin-left:10PX;
+  }
+  .right{
+    margin-right:10PX;
+  }
+}
+

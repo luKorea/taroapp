@@ -1,2 +1,0 @@
-# taroapp
-this is TaroApp

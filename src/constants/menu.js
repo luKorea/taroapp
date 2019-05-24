@@ -1,0 +1,3 @@
+export const SHOWDRAWER = 'SHOWDRAWER';
+export const HIDDENDRAWER = 'HIDDENDRAWER';
+export const CHANGECATA = 'CHANGECATA';
